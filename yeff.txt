@@ -1,0 +1,5 @@
+POST /mascotas: Crea una nueva mascota.
+GET /mascotas: Obtiene todas las mascotas.
+GET /mascotas/:id: Obtiene una mascota por su ID.
+PATCH /mascotas/:id: Actualiza una mascota por su ID.
+DELETE /mascotas/:id: Elimina una mascota por su ID.
